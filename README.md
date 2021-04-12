@@ -13,5 +13,4 @@ The user will input the name of a city into the search bar and click on the sear
 In the example below, the user searched "New York". You will see the current weather and the 5 day forcast displayed for New York. Also, you will note that "New York" has been added to the history section.
 
 <img src=".\assets\imgs\02.PNG">
-
 <a href="https://cjose26.github.io/Weather-app/">link to application</a>
